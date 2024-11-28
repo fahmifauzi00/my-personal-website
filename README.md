@@ -45,11 +45,13 @@ A modern, responsive portfolio website built with HTML, CSS, and JavaScript to s
 ## 🎨 Customization
 
 ### Colors
-The website uses a minimalist color scheme:
+The website uses a warm, welcoming color scheme:
 - Primary text: Black (`#000000`)
 - Secondary text: RGB(85, 85, 85)
 - Borders: RGB(163, 163, 163)
-- Backgrounds: White and RGB(250, 250, 250)
+- Main Background: Light Beige (rgba(249,236,210,255))
+- Component Background: Warm Sand (rgba(248,217,186,255))
+- List Item Tags: Light Beige (rgb(256,236,212))
 
 ### Typography
 - Main font: "Parkinsans" from Google Fonts
